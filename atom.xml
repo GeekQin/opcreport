@@ -4,10 +4,10 @@
     <name>OPC Observer</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
-  <icon>https://opcreport.github.io/icon.png</icon>
-  <id>https://opcreport.github.io/</id>
-  <link href="https://opcreport.github.io/" rel="alternate"/>
-  <link href="https://opcreport.github.io/atom.xml" rel="self"/>
+  <icon>https://geekqin.github.io/opcreport/icon.png</icon>
+  <id>https://geekqin.github.io/opcreport/</id>
+  <link href="https://geekqin.github.io/opcreport/" rel="alternate"/>
+  <link href="https://geekqin.github.io/opcreport/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, OPC Observer</rights>
   <subtitle>Weekly insights on AI-powered solopreneurship and one-person company trends</subtitle>
   <title>OPC One-Person Company AI Entrepreneurship Report</title>
@@ -16,12 +16,12 @@
     <author>
       <name>OPC Observer</name>
     </author>
-    <category term="Industry News" scheme="https://opcreport.github.io/categories/industry-news/"/>
-    <category term="OPC" scheme="https://opcreport.github.io/tags/OPC/"/>
-    <category term="AI Entrepreneurship" scheme="https://opcreport.github.io/tags/AI-Entrepreneurship/"/>
-    <category term="One-Person Company" scheme="https://opcreport.github.io/tags/One-Person-Company/"/>
-    <id>https://opcreport.github.io/2026/06/27/welcome-to-opc-report/</id>
-    <link href="https://opcreport.github.io/2026/06/27/welcome-to-opc-report/"/>
+    <category term="Industry News" scheme="https://geekqin.github.io/opcreport/categories/industry-news/"/>
+    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
+    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/tags/AI-Entrepreneurship/"/>
+    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
+    <id>https://geekqin.github.io/opcreport/2026/06/27/welcome-to-opc-report/</id>
+    <link href="https://geekqin.github.io/opcreport/2026/06/27/welcome-to-opc-report/"/>
     <published>2026-06-27T01:13:00.000Z</published>
     <summary>
       <![CDATA[<h1 id="Welcome-to-OPC-One-Person-Company-AI-Entrepreneurship-Report"><a]]>
@@ -33,8 +33,8 @@
     <author>
       <name>OPC Observer</name>
     </author>
-    <id>https://opcreport.github.io/2026/06/27/hello-world/</id>
-    <link href="https://opcreport.github.io/2026/06/27/hello-world/"/>
+    <id>https://geekqin.github.io/opcreport/2026/06/27/hello-world/</id>
+    <link href="https://geekqin.github.io/opcreport/2026/06/27/hello-world/"/>
     <published>2026-06-27T01:12:13.709Z</published>
     <summary>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a>]]>

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://opcreport.github.io/2026/06/27/welcome-to-opc-report/</loc>
+    <loc>https://geekqin.github.io/opcreport/2026/06/27/welcome-to-opc-report/</loc>
     
     <lastmod>2026-06-27</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://opcreport.github.io/2026/06/27/hello-world/</loc>
+    <loc>https://geekqin.github.io/opcreport/2026/06/27/hello-world/</loc>
     
     <lastmod>2026-06-27</lastmod>
     
@@ -21,7 +21,7 @@
   
 
   <url>
-    <loc>https://opcreport.github.io/</loc>
+    <loc>https://geekqin.github.io/opcreport</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -29,21 +29,21 @@
 
   
   <url>
-    <loc>https://opcreport.github.io/tags/OPC/</loc>
+    <loc>https://geekqin.github.io/opcreport/tags/OPC/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://opcreport.github.io/tags/AI-Entrepreneurship/</loc>
+    <loc>https://geekqin.github.io/opcreport/tags/AI-Entrepreneurship/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://opcreport.github.io/tags/One-Person-Company/</loc>
+    <loc>https://geekqin.github.io/opcreport/tags/One-Person-Company/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -52,7 +52,7 @@
 
   
   <url>
-    <loc>https://opcreport.github.io/categories/industry-news/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/industry-news/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
