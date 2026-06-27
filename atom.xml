@@ -11,7 +11,29 @@
   <rights>All rights reserved 2026, OPC Observer</rights>
   <subtitle>Weekly insights on AI-powered solopreneurship and one-person company trends</subtitle>
   <title>OPC One-Person Company AI Entrepreneurship Report</title>
-  <updated>2026-06-27T01:42:39.224Z</updated>
+  <updated>2026-06-27T03:11:00.000Z</updated>
+  <entry>
+    <author>
+      <name>OPC Observer</name>
+    </author>
+    <category term="OPC Trends" scheme="https://geekqin.github.io/opcreport/categories/OPC-Trends/"/>
+    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/categories/OPC-Trends/AI-Entrepreneurship/"/>
+    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
+    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
+    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
+    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
+    <category term="Entrepreneurship" scheme="https://geekqin.github.io/opcreport/tags/Entrepreneurship/"/>
+    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
+    <category term="Weekly Report" scheme="https://geekqin.github.io/opcreport/tags/Weekly-Report/"/>
+    <id>https://geekqin.github.io/opcreport/2026/06/27/2026-06-27-opc-weekly-report/</id>
+    <link href="https://geekqin.github.io/opcreport/2026/06/27/2026-06-27-opc-weekly-report/"/>
+    <published>2026-06-27T03:11:00.000Z</published>
+    <summary>
+      <![CDATA[<p><strong>Week 26 (June 22 – 27, 2026)</strong> — The biggest news this week: <strong>Seede AI, a one-person company from Chengdu, closed]]>
+    </summary>
+    <title>OPC Weekly Report: One-Person Companies Powered by AI — June 2026 W26</title>
+    <updated>2026-06-27T03:11:00.000Z</updated>
+  </entry>
   <entry>
     <author>
       <name>OPC Observer</name>
@@ -28,30 +50,5 @@
     </summary>
     <title>Welcome to OPC Report - Your Weekly AI Entrepreneurship Insights</title>
     <updated>2026-06-27T01:42:39.224Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>OPC Observer</name>
-    </author>
-    <category term="AI Startups" scheme="https://geekqin.github.io/opcreport/categories/AI-Startups/"/>
-    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/categories/AI-Startups/One-Person-Company/"/>
-    <category term="Entrepreneurship Trends" scheme="https://geekqin.github.io/opcreport/categories/AI-Startups/One-Person-Company/Entrepreneurship-Trends/"/>
-    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
-    <category term="one-person-company" scheme="https://geekqin.github.io/opcreport/tags/one-person-company/"/>
-    <category term="AI startup" scheme="https://geekqin.github.io/opcreport/tags/AI-startup/"/>
-    <category term="solo founder" scheme="https://geekqin.github.io/opcreport/tags/solo-founder/"/>
-    <category term="indie hacker" scheme="https://geekqin.github.io/opcreport/tags/indie-hacker/"/>
-    <category term="artificial-intelligence" scheme="https://geekqin.github.io/opcreport/tags/artificial-intelligence/"/>
-    <category term="entrepreneurship" scheme="https://geekqin.github.io/opcreport/tags/entrepreneurship/"/>
-    <id>https://geekqin.github.io/opcreport/2026/06/27/2026-06-27-opc-weekly-report/</id>
-    <link href="https://geekqin.github.io/opcreport/2026/06/27/2026-06-27-opc-weekly-report/"/>
-    <published>2026-06-26T16:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p><em>Week 26, 2026 (June 21-27) | Monitoring Period: 7 Days</em></p>
-<hr>
-<h2 id="Key-Insights-This-Week"><a]]>
-    </summary>
-    <title>OPC One-Person Company AI Startup Weekly Report: Week 26, 2026</title>
-    <updated>2026-06-27T02:13:25.017Z</updated>
   </entry>
 </feed>
