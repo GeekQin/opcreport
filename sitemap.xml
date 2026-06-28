@@ -114,13 +114,6 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/AI-Tools/</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://geekqin.github.io/opcreport/tags/Weekly-Report/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -177,14 +170,28 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/Solo-Entrepreneurship/</loc>
+    <loc>https://geekqin.github.io/opcreport/tags/One-Person-Company/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/Tech-Trends/</loc>
+    <loc>https://geekqin.github.io/opcreport/tags/OPE/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/Seede-AI/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/Startup-Trends/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -242,14 +249,21 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/Entrepreneurship/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/Entrepreneurship/AI-Industry/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Trend-Report/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Trend-Report/Weekly-Analysis/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
