@@ -244,21 +244,35 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/Solo-Founder/</loc>
+    <loc>https://geekqin.github.io/opcreport/tags/Cursor/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/SaaS/</loc>
+    <loc>https://geekqin.github.io/opcreport/tags/v0-dev/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/China-Tech-Policy/</loc>
+    <loc>https://geekqin.github.io/opcreport/tags/LangGraph/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/OpenClaw/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/WAIC/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -330,21 +344,35 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Trends/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI/OPC/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Trends/Weekly-Report/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI/OPC/Entrepreneurship/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI/OPC/Entrepreneurship/One-Person-Company/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI/OPC/Entrepreneurship/One-Person-Company/AI-Startup/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
