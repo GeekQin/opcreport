@@ -11,31 +11,28 @@
   <rights>All rights reserved 2026, OPC Observer</rights>
   <subtitle>Weekly insights on AI-powered solopreneurship and one-person company trends</subtitle>
   <title>OPC One-Person Company AI Entrepreneurship Report</title>
-  <updated>2026-06-27T16:07:40.138Z</updated>
+  <updated>2026-06-28T00:40:00.000Z</updated>
   <entry>
     <author>
       <name>OPC Observer</name>
     </author>
-    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/"/>
-    <category term="OPC" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/"/>
-    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/Solopreneur/"/>
-    <category term="AI Trends" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/Solopreneur/AI-Trends/"/>
+    <category term="OPC Weekly Report" scheme="https://geekqin.github.io/opcreport/categories/OPC-Weekly-Report/"/>
+    <category term="AI Entrepreneurship Trends" scheme="https://geekqin.github.io/opcreport/categories/OPC-Weekly-Report/AI-Entrepreneurship-Trends/"/>
+    <category term="Solopreneur Strategy" scheme="https://geekqin.github.io/opcreport/categories/OPC-Weekly-Report/AI-Entrepreneurship-Trends/Solopreneur-Strategy/"/>
     <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
+    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/tags/AI-Entrepreneurship/"/>
     <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
     <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
     <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
-    <category term="Chinese AI Models" scheme="https://geekqin.github.io/opcreport/tags/Chinese-AI-Models/"/>
-    <category term="2026 Trends" scheme="https://geekqin.github.io/opcreport/tags/2026-Trends/"/>
-    <category term="Marc Lou" scheme="https://geekqin.github.io/opcreport/tags/Marc-Lou/"/>
-    <category term="Hainan Free Trade Port" scheme="https://geekqin.github.io/opcreport/tags/Hainan-Free-Trade-Port/"/>
-    <category term="Chongqing Nanan" scheme="https://geekqin.github.io/opcreport/tags/Chongqing-Nanan/"/>
-    <category term="WAIC OPC Challenge" scheme="https://geekqin.github.io/opcreport/tags/WAIC-OPC-Challenge/"/>
+    <category term="NVIDIA" scheme="https://geekqin.github.io/opcreport/tags/NVIDIA/"/>
+    <category term="WAIC" scheme="https://geekqin.github.io/opcreport/tags/WAIC/"/>
+    <category term="AI Factory" scheme="https://geekqin.github.io/opcreport/tags/AI-Factory/"/>
     <id>https://geekqin.github.io/opcreport/2026/06/28/2026-Week26-opc-weekly-report/</id>
     <link href="https://geekqin.github.io/opcreport/2026/06/28/2026-Week26-opc-weekly-report/"/>
-    <published>2026-06-27T16:00:00.000Z</published>
-    <summary>2026 OPC One-Person Company Ecosystem Report - Analysis of the explosive growth of super individuals in AI entrepreneurship, policy support, successful cases like Marc Lou ($1.03M revenue), and future trends including World Model and embodied intelligence.</summary>
-    <title>The Rise of Super Individuals: 2026 OPC One-Person Company Ecosystem Explosive Growth Report | Week 26</title>
-    <updated>2026-06-27T16:07:40.138Z</updated>
+    <published>2026-06-28T00:40:00.000Z</published>
+    <summary>Weekly OPC (One-Person Company) AI entrepreneurship trend report — Week 26, 2026. NVIDIA declares AI Factory era, WAIC launches first OPC Pioneer Challenge, 12M+ solo entrepreneurs in China, AI Agent toolchain explosion, and the 6 golden tracks for solo founders.</summary>
+    <title>OPC Weekly #26: NVIDIA Declares 'AI Factory Era' — The One-Person Company Blueprint Just Got a Supercomputer</title>
+    <updated>2026-06-28T00:40:00.000Z</updated>
   </entry>
   <entry>
     <author>
