@@ -202,13 +202,6 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/2026/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://geekqin.github.io/opcreport/tags/Micro-SaaS/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -245,13 +238,6 @@
   
   <url>
     <loc>https://geekqin.github.io/opcreport/tags/Solo-Founder/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/Digital-Employee/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -316,6 +302,20 @@
   </url>
   
   <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/Startup-Trends/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://geekqin.github.io/opcreport/categories/Weekly-Report/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -330,28 +330,7 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Startup/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Startup/OPC/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Startup/OPC/Solopreneur/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Startup/OPC/Solopreneur/AI-Agent/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/Startup-Trends/Digital-Economy/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
