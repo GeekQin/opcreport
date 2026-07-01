@@ -66,22 +66,24 @@
     <author>
       <name>OPC Observer</name>
     </author>
-    <category term="OPC Report" scheme="https://geekqin.github.io/opcreport/categories/OPC-Report/"/>
-    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/categories/OPC-Report/AI-Entrepreneurship/"/>
+    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/"/>
+    <category term="OPC" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/"/>
+    <category term="Solo Founder" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/Solo-Founder/"/>
+    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/Solo-Founder/AI-Agent/"/>
     <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
     <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
-    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
     <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
-    <category term="WAIC" scheme="https://geekqin.github.io/opcreport/tags/WAIC/"/>
-    <category term="Hainan Policy" scheme="https://geekqin.github.io/opcreport/tags/Hainan-Policy/"/>
-    <category term="AI Agents" scheme="https://geekqin.github.io/opcreport/tags/AI-Agents/"/>
-    <category term="Coding Tools" scheme="https://geekqin.github.io/opcreport/tags/Coding-Tools/"/>
+    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
+    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/tags/AI-Entrepreneurship/"/>
+    <category term="Indie Hacker" scheme="https://geekqin.github.io/opcreport/tags/Indie-Hacker/"/>
+    <category term="Super Individual" scheme="https://geekqin.github.io/opcreport/tags/Super-Individual/"/>
+    <category term="2026 Trends" scheme="https://geekqin.github.io/opcreport/tags/2026-Trends/"/>
     <id>https://geekqin.github.io/opcreport/2026/07/01/2026-Week27-opc-weekly-report/</id>
     <link href="https://geekqin.github.io/opcreport/2026/07/01/2026-Week27-opc-weekly-report/"/>
-    <published>2026-07-01T06:04:00.000Z</published>
-    <summary>Weekly OPC (One-Person Company) AI entrepreneurship monitoring report covering Hainan's ¥8M incentive policy, Microsoft Work Trend Index 2026, AI rehiring trends, AI coding tool landscape, and AI Agent market shifts.</summary>
-    <title>OPC Weekly Report: Hainan Drops ¥8M Policy Bomb, AI Rehiring Wave Emerges — July 1, 2026</title>
-    <updated>2026-07-01T07:08:16.522Z</updated>
+    <published>2026-06-30T16:00:00.000Z</published>
+    <summary>Comprehensive analysis of OPC (One-Person Company) AI entrepreneurship ecosystem in 2026, covering policy support, technology trends, market dynamics, and success cases for independent developers and super individuals.</summary>
+    <title>OPC One-Person Company AI Entrepreneurship Trend Report - Week 27, 2026</title>
+    <updated>2026-07-01T11:07:36.001Z</updated>
   </entry>
   <entry>
     <author>
