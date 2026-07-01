@@ -287,14 +287,14 @@
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/2026-Trends/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/OPC-Weekly-Report/</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
-
   
   <url>
     <loc>https://geekqin.github.io/opcreport/categories/OPC-Trends/</loc>
@@ -333,13 +333,6 @@
   
   <url>
     <loc>https://geekqin.github.io/opcreport/categories/OPC-Trends/AI-Entrepreneurship/Policy-Analysis/</loc>
-    <lastmod>2026-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/Solo-Founder/AI-Agent/</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
