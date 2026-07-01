@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/2026/07/01/2026-Week27-opc-weekly-report/</loc>
+    <loc>https://geekqin.github.io/opcreport/2026/07/02/2026-Week27-opc-weekly-report/</loc>
     
     <lastmod>2026-07-01</lastmod>
     
@@ -246,13 +246,6 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/Independent-Developer/</loc>
-    <lastmod>2026-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://geekqin.github.io/opcreport/tags/Super-Individual/</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -289,20 +282,6 @@
   
   <url>
     <loc>https://geekqin.github.io/opcreport/tags/Product-Hunt/</loc>
-    <lastmod>2026-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/OpenClaw/</loc>
-    <lastmod>2026-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/DeepSeek/</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -388,20 +367,6 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/Solopreneur/</loc>
-    <lastmod>2026-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/Solopreneur/AI-Trends/</loc>
-    <lastmod>2026-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://geekqin.github.io/opcreport/categories/AI-Startups/</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -431,6 +396,13 @@
   
   <url>
     <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/Solo-Founder/Indie-Hacker/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Trend-Report/</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
