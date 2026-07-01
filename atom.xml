@@ -11,7 +11,32 @@
   <rights>All rights reserved 2026, OPC Observer</rights>
   <subtitle>Weekly insights on AI-powered solopreneurship and one-person company trends</subtitle>
   <title>OPC One-Person Company AI Entrepreneurship Report</title>
-  <updated>2026-07-01T08:09:20.888Z</updated>
+  <updated>2026-07-01T10:08:46.540Z</updated>
+  <entry>
+    <author>
+      <name>OPC Observer</name>
+    </author>
+    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/"/>
+    <category term="OPC" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/"/>
+    <category term="Solo Founder" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/Solo-Founder/"/>
+    <category term="Indie Hacker" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/Solo-Founder/Indie-Hacker/"/>
+    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
+    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
+    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
+    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/tags/AI-Entrepreneurship/"/>
+    <category term="Solo Founder" scheme="https://geekqin.github.io/opcreport/tags/Solo-Founder/"/>
+    <category term="Indie Hacker" scheme="https://geekqin.github.io/opcreport/tags/Indie-Hacker/"/>
+    <category term="LangGraph" scheme="https://geekqin.github.io/opcreport/tags/LangGraph/"/>
+    <category term="Cursor" scheme="https://geekqin.github.io/opcreport/tags/Cursor/"/>
+    <category term="v0.dev" scheme="https://geekqin.github.io/opcreport/tags/v0-dev/"/>
+    <category term="Product Hunt" scheme="https://geekqin.github.io/opcreport/tags/Product-Hunt/"/>
+    <id>https://geekqin.github.io/opcreport/2026/07/01/2026-Week26-opc-weekly-report/</id>
+    <link href="https://geekqin.github.io/opcreport/2026/07/01/2026-Week26-opc-weekly-report/"/>
+    <published>2026-07-01T10:04:00.000Z</published>
+    <summary>Comprehensive analysis of OPC (One-Person Company) AI entrepreneurship trends in July 2026. Market size expected to exceed 800 billion yuan. Learn from successful cases like Marc Lou, Pieter Levels, and Danny Postma. Discover the 2026 golden toolchain: Cursor, v0.dev, LangGraph, Make.com.</summary>
+    <title>OPC One-Person Company AI Entrepreneurship Trend Report - July 2026 (18:04)</title>
+    <updated>2026-07-01T10:08:46.540Z</updated>
+  </entry>
   <entry>
     <author>
       <name>OPC Observer</name>
@@ -57,29 +82,6 @@
     <summary>Weekly OPC (One-Person Company) AI entrepreneurship monitoring report covering Hainan's ¥8M incentive policy, Microsoft Work Trend Index 2026, AI rehiring trends, AI coding tool landscape, and AI Agent market shifts.</summary>
     <title>OPC Weekly Report: Hainan Drops ¥8M Policy Bomb, AI Rehiring Wave Emerges — July 1, 2026</title>
     <updated>2026-07-01T07:08:16.522Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>OPC Observer</name>
-    </author>
-    <category term="AI Trends" scheme="https://geekqin.github.io/opcreport/categories/AI-Trends/"/>
-    <category term="Startup" scheme="https://geekqin.github.io/opcreport/categories/AI-Trends/Startup/"/>
-    <category term="Business Innovation" scheme="https://geekqin.github.io/opcreport/categories/AI-Trends/Startup/Business-Innovation/"/>
-    <category term="AI Technology" scheme="https://geekqin.github.io/opcreport/categories/AI-Trends/Startup/Business-Innovation/AI-Technology/"/>
-    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
-    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
-    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
-    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
-    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
-    <category term="AI创业" scheme="https://geekqin.github.io/opcreport/tags/AI%E5%88%9B%E4%B8%9A/"/>
-    <category term="一人公司" scheme="https://geekqin.github.io/opcreport/tags/%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8/"/>
-    <category term="Artificial Intelligence" scheme="https://geekqin.github.io/opcreport/tags/Artificial-Intelligence/"/>
-    <id>https://geekqin.github.io/opcreport/2026/07/01/2026-Week26-opc-weekly-report/</id>
-    <link href="https://geekqin.github.io/opcreport/2026/07/01/2026-Week26-opc-weekly-report/"/>
-    <published>2026-07-01T01:05:00.000Z</published>
-    <summary>Weekly report covering OPC (One-Person Company) AI startup trends for July 1, 2026. Key highlights include Hainan Free Trade Port OPC policy launch, WAIC 2026 announcements, and AI Agent cost revolution.</summary>
-    <title>OPC One-Person Company AI Startup Trends Report | July 1, 2026</title>
-    <updated>2026-07-01T09:10:58.183Z</updated>
   </entry>
   <entry>
     <author>
