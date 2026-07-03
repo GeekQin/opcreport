@@ -259,6 +259,20 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/Digital-Employee/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/China-Tech/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -367,21 +381,7 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Industry/</loc>
-    <lastmod>2026-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Industry/Startup-Trends/</loc>
-    <lastmod>2026-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Industry/Startup-Trends/Business-Innovation/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Trends/Weekly-Report/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
