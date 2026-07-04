@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/2026/07/04/2026-Week26-opc-weekly-report/</loc>
+    <loc>https://geekqin.github.io/opcreport/2026/07/04/2026-Week27-opc-weekly-report/</loc>
     
     <lastmod>2026-07-04</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/2026/07/04/2026-Week27-opc-weekly-report/</loc>
+    <loc>https://geekqin.github.io/opcreport/2026/07/04/2026-Week26-opc-weekly-report/</loc>
     
     <lastmod>2026-07-04</lastmod>
     
@@ -274,27 +274,6 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/automation/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/AI-agents/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/entrepreneurship-trends/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://geekqin.github.io/opcreport/tags/one-person-company/</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -317,6 +296,34 @@
   
   <url>
     <loc>https://geekqin.github.io/opcreport/tags/vertical-agent/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/micro-SaaS/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/no-code/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/AI-coding/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/entrepreneurship/</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -452,6 +459,20 @@
   
   <url>
     <loc>https://geekqin.github.io/opcreport/categories/OPC/AI-Entrepreneurship/Solopreneur/One-Person-Company/ai-tools/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/One-Person-Company/Solopreneur/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/One-Person-Company/Solopreneur/ai-tools/</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
