@@ -253,7 +253,21 @@
   </url>
   
   <url>
+    <loc>https://geekqin.github.io/opcreport/tags/WAIC/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://geekqin.github.io/opcreport/tags/Digital-Employee/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/OpenClaw/</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -267,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/AI-Financing/</loc>
+    <loc>https://geekqin.github.io/opcreport/tags/AI-Solopreneur/</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -277,6 +291,13 @@
   
   <url>
     <loc>https://geekqin.github.io/opcreport/categories/OPC-Trends/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/OPC-Report/</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -381,7 +402,7 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Industry-Trends/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/OPC-Report/AI-Entrepreneurship/</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
