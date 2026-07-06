@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/2026/07/06/2026-Week28-opc-weekly-report/</loc>
+    <loc>https://geekqin.github.io/opcreport/2026/07/06/2026-Week27-opc-weekly-report/</loc>
     
     <lastmod>2026-07-06</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/2026/07/06/2026-Week27-opc-weekly-report/</loc>
+    <loc>https://geekqin.github.io/opcreport/2026/07/06/2026-Week28-opc-weekly-report/</loc>
     
     <lastmod>2026-07-06</lastmod>
     
@@ -262,6 +262,13 @@
   </url>
   
   <url>
+    <loc>https://geekqin.github.io/opcreport/tags/WAIC/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://geekqin.github.io/opcreport/tags/Solo-Founder/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -270,6 +277,13 @@
   
   <url>
     <loc>https://geekqin.github.io/opcreport/tags/Digital-Employee/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/Startup-Policy/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -425,14 +439,14 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Trends/Startup-Insights/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/One-Person-Company/Indie-Hacker/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/One-Person-Company/Indie-Hacker/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Trends/Startup-Ecosystem/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
