@@ -11,7 +11,31 @@
   <rights>All rights reserved 2026, OPC Observer</rights>
   <subtitle>Weekly insights on AI-powered solopreneurship and one-person company trends</subtitle>
   <title>OPC One-Person Company AI Entrepreneurship Report</title>
-  <updated>2026-07-06T15:08:12.846Z</updated>
+  <updated>2026-07-06T16:08:28.013Z</updated>
+  <entry>
+    <author>
+      <name>OPC Observer</name>
+    </author>
+    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/categories/AI-Startup/"/>
+    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/categories/AI-Startup/One-Person-Company/"/>
+    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/categories/AI-Startup/One-Person-Company/Solopreneur/"/>
+    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
+    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
+    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
+    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
+    <category term="Bootstrapped Startup" scheme="https://geekqin.github.io/opcreport/tags/Bootstrapped-Startup/"/>
+    <category term="Digital Employee" scheme="https://geekqin.github.io/opcreport/tags/Digital-Employee/"/>
+    <category term="Vibe Coding" scheme="https://geekqin.github.io/opcreport/tags/Vibe-Coding/"/>
+    <category term="Automation Workflow" scheme="https://geekqin.github.io/opcreport/tags/Automation-Workflow/"/>
+    <category term="Claude Code" scheme="https://geekqin.github.io/opcreport/tags/Claude-Code/"/>
+    <category term="OpenClaw" scheme="https://geekqin.github.io/opcreport/tags/OpenClaw/"/>
+    <id>https://geekqin.github.io/opcreport/2026/07/07/2026-Week28-opc-weekly-report/</id>
+    <link href="https://geekqin.github.io/opcreport/2026/07/07/2026-Week28-opc-weekly-report/"/>
+    <published>2026-07-06T16:04:00.000Z</published>
+    <summary>Weekly intelligence briefing on One-Person Company (OPC) and AI-driven solo entrepreneurship — trends, tools, case studies, and risks for July 2026 Week 1.</summary>
+    <title>Digital Employees Go Live: One-Person Company (OPC) AI Startup Trends — July 2026 Week 1</title>
+    <updated>2026-07-06T16:08:28.013Z</updated>
+  </entry>
   <entry>
     <author>
       <name>OPC Observer</name>
@@ -55,29 +79,6 @@
     </summary>
     <title>OPC One-Person Company AI Startup Trends Weekly Report | Week 27, 2026</title>
     <updated>2026-07-06T14:08:00.888Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>OPC Observer</name>
-    </author>
-    <category term="AI Startups" scheme="https://geekqin.github.io/opcreport/categories/AI-Startups/"/>
-    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/categories/AI-Startups/One-Person-Company/"/>
-    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/categories/AI-Startups/One-Person-Company/Solopreneur/"/>
-    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
-    <category term="one-person company" scheme="https://geekqin.github.io/opcreport/tags/one-person-company/"/>
-    <category term="solopreneur" scheme="https://geekqin.github.io/opcreport/tags/solopreneur/"/>
-    <category term="AI startup" scheme="https://geekqin.github.io/opcreport/tags/AI-startup/"/>
-    <category term="AI agents" scheme="https://geekqin.github.io/opcreport/tags/AI-agents/"/>
-    <category term="AI tools" scheme="https://geekqin.github.io/opcreport/tags/AI-tools/"/>
-    <category term="startup policy" scheme="https://geekqin.github.io/opcreport/tags/startup-policy/"/>
-    <category term="Kling AI" scheme="https://geekqin.github.io/opcreport/tags/Kling-AI/"/>
-    <category term="compute vouchers" scheme="https://geekqin.github.io/opcreport/tags/compute-vouchers/"/>
-    <id>https://geekqin.github.io/opcreport/2026/07/06/2026-Week28-opc-weekly-report/</id>
-    <link href="https://geekqin.github.io/opcreport/2026/07/06/2026-Week28-opc-weekly-report/"/>
-    <published>2026-07-06T10:04:00.000Z</published>
-    <summary>Weekly monitoring report on One-Person Company (OPC) and solopreneur AI startup trends: 5.7M credited OPCs in China, $3B Kling AI raise, 20+ city policy packages, and the maturing AI super-employee tool stack.</summary>
-    <title>The Solo Founder Economy Is Here: One-Person Company (OPC) AI Startup Trends — Week 28, 2026</title>
-    <updated>2026-07-06T10:07:56.951Z</updated>
   </entry>
   <entry>
     <author>
