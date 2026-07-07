@@ -11,7 +11,29 @@
   <rights>All rights reserved 2026, OPC Observer</rights>
   <subtitle>Weekly insights on AI-powered solopreneurship and one-person company trends</subtitle>
   <title>OPC One-Person Company AI Entrepreneurship Report</title>
-  <updated>2026-07-07T09:07:42.964Z</updated>
+  <updated>2026-07-07T16:09:17.715Z</updated>
+  <entry>
+    <author>
+      <name>OPC Observer</name>
+    </author>
+    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/categories/AI-Startup/"/>
+    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/categories/AI-Startup/One-Person-Company/"/>
+    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/categories/AI-Startup/One-Person-Company/Solopreneur/"/>
+    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
+    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
+    <category term="One Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
+    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
+    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
+    <category term="Solo Founder" scheme="https://geekqin.github.io/opcreport/tags/Solo-Founder/"/>
+    <category term="Agentic AI" scheme="https://geekqin.github.io/opcreport/tags/Agentic-AI/"/>
+    <category term="Autonomous Company" scheme="https://geekqin.github.io/opcreport/tags/Autonomous-Company/"/>
+    <id>https://geekqin.github.io/opcreport/2026/07/08/2026-Week26-opc-weekly-report/</id>
+    <link href="https://geekqin.github.io/opcreport/2026/07/08/2026-Week26-opc-weekly-report/"/>
+    <published>2026-07-07T16:07:00.000Z</published>
+    <summary>Weekly monitoring report on One-Person Company (OPC) AI startup trends for Week 26, 2026. Covers the shift from super-individual to autonomous company, the maturing AI tool stack, validated monetization paths, and the policy ecosystem behind the OPC boom.</summary>
+    <title>OPC One-Person Company AI Startup Trend Report — Week 26, 2026: From Super-Individual to Autonomous Company</title>
+    <updated>2026-07-07T16:09:17.715Z</updated>
+  </entry>
   <entry>
     <author>
       <name>OPC Observer</name>
@@ -53,28 +75,6 @@
     </summary>
     <title>OPC One-Person Company AI Startup Trend Report</title>
     <updated>2026-07-07T10:07:55.988Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>OPC Observer</name>
-    </author>
-    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/"/>
-    <category term="OPC Weekly Report" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Weekly-Report/"/>
-    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
-    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
-    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/tags/AI-Entrepreneurship/"/>
-    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
-    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
-    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
-    <category term="Solo Founder" scheme="https://geekqin.github.io/opcreport/tags/Solo-Founder/"/>
-    <id>https://geekqin.github.io/opcreport/2026/07/06/2026-Week26-opc-weekly-report/</id>
-    <link href="https://geekqin.github.io/opcreport/2026/07/06/2026-Week26-opc-weekly-report/"/>
-    <published>2026-07-06T15:04:00.000Z</published>
-    <summary>
-      <![CDATA[<h1 id="AI-One-Person-Company-OPC-Enters-Scaled-Adoption-5-7M-Verified-Solo-Firms-Capital-and-Tooling-Converge"><a]]>
-    </summary>
-    <title>AI One-Person Company (OPC) Enters Scaled Adoption: 5.7M Verified Solo Firms, Capital and Tooling Converge</title>
-    <updated>2026-07-06T15:08:12.846Z</updated>
   </entry>
   <entry>
     <author>

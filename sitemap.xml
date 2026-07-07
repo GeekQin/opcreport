@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://geekqin.github.io/opcreport/2026/07/08/2026-Week26-opc-weekly-report/</loc>
+    
+    <lastmod>2026-07-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://geekqin.github.io/opcreport/2026/07/07/2026-Week27-opc-weekly-report/</loc>
     
     <lastmod>2026-07-07</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://geekqin.github.io/opcreport/2026/07/07/2026-Week28-opc-weekly-report/</loc>
     
     <lastmod>2026-07-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/2026/07/06/2026-Week26-opc-weekly-report/</loc>
-    
-    <lastmod>2026-07-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -275,6 +275,20 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/Agentic-AI/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/Autonomous-Company/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -376,7 +390,21 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Weekly-Report/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Startup/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Startup/One-Person-Company/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Startup/One-Person-Company/Solopreneur/</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
