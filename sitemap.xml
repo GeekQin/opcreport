@@ -275,6 +275,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/AIGC/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -390,7 +397,7 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship-%C2%B7-OPC-%C2%B7-Digital-Economy/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/Startup-Trends/One-Person-Company/</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
