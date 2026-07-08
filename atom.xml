@@ -11,29 +11,7 @@
   <rights>All rights reserved 2026, OPC Observer</rights>
   <subtitle>Weekly insights on AI-powered solopreneurship and one-person company trends</subtitle>
   <title>OPC One-Person Company AI Entrepreneurship Report</title>
-  <updated>2026-07-08T11:10:37.605Z</updated>
-  <entry>
-    <author>
-      <name>OPC Observer</name>
-    </author>
-    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/"/>
-    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/One-Person-Company/"/>
-    <category term="Startup Trends" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/One-Person-Company/Startup-Trends/"/>
-    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
-    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
-    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/tags/AI-Entrepreneurship/"/>
-    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
-    <category term="Super Individual" scheme="https://geekqin.github.io/opcreport/tags/Super-Individual/"/>
-    <category term="AI Tools" scheme="https://geekqin.github.io/opcreport/tags/AI-Tools/"/>
-    <category term="Solo Founder" scheme="https://geekqin.github.io/opcreport/tags/Solo-Founder/"/>
-    <category term="2026 Trends" scheme="https://geekqin.github.io/opcreport/tags/2026-Trends/"/>
-    <id>https://geekqin.github.io/opcreport/2026/07/08/2026-Week28-opc-weekly-report/</id>
-    <link href="https://geekqin.github.io/opcreport/2026/07/08/2026-Week28-opc-weekly-report/"/>
-    <published>2026-07-08T03:00:00.000Z</published>
-    <summary>2026 has been dubbed the Year One of One-Person Companies. AI tools have lowered the barriers for solo entrepreneurship. But as the gold rush fades, a harsh reality emerges — 90% of OPC founders have already exited. This report provides a comprehensive analysis of the trends and survival strategies.</summary>
-    <title>Cold Reflection After the Gold Rush: Why 90% of One-Person Companies Are Failing in 2026</title>
-    <updated>2026-07-08T11:10:37.605Z</updated>
-  </entry>
+  <updated>2026-07-08T02:11:12.080Z</updated>
   <entry>
     <author>
       <name>OPC Observer</name>
@@ -75,6 +53,30 @@
     <summary>Weekly monitoring report on the One Person Company (OPC) AI startup trend — policy subsidies, 367+ solopreneur tools, $7.6B Q1 funding, real case studies, and the death of script-style Agents.</summary>
     <title>From 5.7 Million to One-Person Unicorns: The Real Temperature of the OPC AI Startup Wave</title>
     <updated>2026-07-08T03:09:09.098Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>OPC Observer</name>
+    </author>
+    <category term="OPC" scheme="https://geekqin.github.io/opcreport/categories/OPC/"/>
+    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/categories/OPC/AI-Startup/"/>
+    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/categories/OPC/AI-Startup/Solopreneur/"/>
+    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/categories/OPC/AI-Startup/Solopreneur/AI-Agent/"/>
+    <category term="AI Policy" scheme="https://geekqin.github.io/opcreport/categories/OPC/AI-Startup/Solopreneur/AI-Agent/AI-Policy/"/>
+    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
+    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
+    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
+    <category term="AIOPC" scheme="https://geekqin.github.io/opcreport/tags/AIOPC/"/>
+    <category term="Compute Voucher" scheme="https://geekqin.github.io/opcreport/tags/Compute-Voucher/"/>
+    <category term="Cursor" scheme="https://geekqin.github.io/opcreport/tags/Cursor/"/>
+    <category term="15th Five-Year Plan" scheme="https://geekqin.github.io/opcreport/tags/15th-Five-Year-Plan/"/>
+    <category term="AI Regulation" scheme="https://geekqin.github.io/opcreport/tags/AI-Regulation/"/>
+    <id>https://geekqin.github.io/opcreport/2026/07/08/2026-Week28-opc-weekly-report/</id>
+    <link href="https://geekqin.github.io/opcreport/2026/07/08/2026-Week28-opc-weekly-report/"/>
+    <published>2026-07-07T16:00:00.000Z</published>
+    <summary>Weekly monitoring report on One-Person Company (OPC) AI startup trends: China's seven-ministry push for AIOPC, city-level subsidies, Cursor's $500M revenue, and the July 15 AI anthropomorphism regulation.</summary>
+    <title>OPC AI Startup Trends 2026: National Policy Tailwinds, City Subsidies, and the Race to the First Billion-Dollar One-Person Company</title>
+    <updated>2026-07-08T12:09:20.179Z</updated>
   </entry>
   <entry>
     <author>
