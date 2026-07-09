@@ -282,27 +282,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/Startup-Policy/</loc>
-    <lastmod>2026-07-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/AIOPC/</loc>
-    <lastmod>2026-07-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/2026-Trends/</loc>
-    <lastmod>2026-07-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -418,21 +397,21 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Startups/Entrepreneurship/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Industry/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Startups/Entrepreneurship/OPC/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Industry/Entrepreneurship/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Startups/Entrepreneurship/OPC/AI-Industry/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Industry/Entrepreneurship/Startup-Trends/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
