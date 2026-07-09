@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/2026/07/09/2026-Week26-opc-weekly-report/</loc>
+    <loc>https://geekqin.github.io/opcreport/2026/07/09/2026-Week28-opc-weekly-report/</loc>
     
     <lastmod>2026-07-09</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/2026/07/09/2026-Week28-opc-weekly-report/</loc>
+    <loc>https://geekqin.github.io/opcreport/2026/07/09/2026-Week26-opc-weekly-report/</loc>
     
     <lastmod>2026-07-09</lastmod>
     
@@ -262,13 +262,6 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/Digital-Employee/</loc>
-    <lastmod>2026-07-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://geekqin.github.io/opcreport/tags/2026/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -277,6 +270,13 @@
   
   <url>
     <loc>https://geekqin.github.io/opcreport/tags/Independent-Developer/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/Decision-AI/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -383,13 +383,6 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/Startup-Trends/OPC/</loc>
-    <lastmod>2026-07-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/Startup-Trends/One-Person-Company/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -398,6 +391,20 @@
   
   <url>
     <loc>https://geekqin.github.io/opcreport/categories/OPC-Weekly-Report/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/Trend-Report/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/Trend-Report/AI-Entrepreneurship/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
