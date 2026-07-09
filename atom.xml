@@ -11,27 +11,7 @@
   <rights>All rights reserved 2026, OPC Observer</rights>
   <subtitle>Weekly insights on AI-powered solopreneurship and one-person company trends</subtitle>
   <title>OPC One-Person Company AI Entrepreneurship Report</title>
-  <updated>2026-07-09T10:08:50.435Z</updated>
-  <entry>
-    <author>
-      <name>OPC Observer</name>
-    </author>
-    <category term="AI" scheme="https://geekqin.github.io/opcreport/categories/AI/"/>
-    <category term="Entrepreneurship" scheme="https://geekqin.github.io/opcreport/categories/AI/Entrepreneurship/"/>
-    <category term="Trends" scheme="https://geekqin.github.io/opcreport/categories/AI/Entrepreneurship/Trends/"/>
-    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
-    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
-    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
-    <category term="Indie Hacker" scheme="https://geekqin.github.io/opcreport/tags/Indie-Hacker/"/>
-    <category term="Micro SaaS" scheme="https://geekqin.github.io/opcreport/tags/Micro-SaaS/"/>
-    <category term="Solo Founder" scheme="https://geekqin.github.io/opcreport/tags/Solo-Founder/"/>
-    <id>https://geekqin.github.io/opcreport/2026/07/09/2026-Week28-opc-weekly-report/</id>
-    <link href="https://geekqin.github.io/opcreport/2026/07/09/2026-Week28-opc-weekly-report/"/>
-    <published>2026-07-09T10:04:00.000Z</published>
-    <summary>Comprehensive analysis of the One-Person Company (OPC) phenomenon powered by AI agents, featuring market data, success stories, and actionable insights for solo entrepreneurs in 2026.</summary>
-    <title>The Rise of One-Person Companies: AI Agents Reshaping Entrepreneurship in 2026</title>
-    <updated>2026-07-09T10:08:50.435Z</updated>
-  </entry>
+  <updated>2026-07-09T11:08:14.323Z</updated>
   <entry>
     <author>
       <name>OPC Observer</name>
@@ -41,7 +21,24 @@
     <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
     <category term="One Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
     <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
+    <category term="AI Agents" scheme="https://geekqin.github.io/opcreport/tags/AI-Agents/"/>
+    <id>https://geekqin.github.io/opcreport/2026/07/09/2026-Week28-opc-weekly-report/</id>
+    <link href="https://geekqin.github.io/opcreport/2026/07/09/2026-Week28-opc-weekly-report/"/>
+    <published>2026-07-09T11:04:00.000Z</published>
+    <summary>Weekly intelligence on the One Person Company (OPC) trend: 16M+ registered firms in China, aggressive government subsidies, the solopreneur AI tech stack, and a reality check on Agent production gaps.</summary>
+    <title>One Person + AI Agents = A Company: The 2026 OPC Startup Boom (Week 28 Report)</title>
+    <updated>2026-07-09T11:08:14.323Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>OPC Observer</name>
+    </author>
+    <category term="OPC Weekly Report" scheme="https://geekqin.github.io/opcreport/categories/OPC-Weekly-Report/"/>
+    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
+    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
     <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
+    <category term="One Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
+    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
     <category term="Independent Developer" scheme="https://geekqin.github.io/opcreport/tags/Independent-Developer/"/>
     <id>https://geekqin.github.io/opcreport/2026/07/09/2026-Week26-opc-weekly-report/</id>
     <link href="https://geekqin.github.io/opcreport/2026/07/09/2026-Week26-opc-weekly-report/"/>
@@ -62,8 +59,8 @@
     <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
     <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
     <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
-    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
     <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
+    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
     <category term="2026" scheme="https://geekqin.github.io/opcreport/tags/2026/"/>
     <id>https://geekqin.github.io/opcreport/2026/07/09/2026-Week27-opc-weekly-report/</id>
     <link href="https://geekqin.github.io/opcreport/2026/07/09/2026-Week27-opc-weekly-report/"/>
@@ -83,10 +80,10 @@
     <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
     <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
     <category term="China AI Policy" scheme="https://geekqin.github.io/opcreport/tags/China-AI-Policy/"/>
+    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
     <category term="One Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
     <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
     <category term="Super Individual" scheme="https://geekqin.github.io/opcreport/tags/Super-Individual/"/>
-    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
     <category term="WAIC 2026" scheme="https://geekqin.github.io/opcreport/tags/WAIC-2026/"/>
     <id>https://geekqin.github.io/opcreport/2026/07/01/2026-W26-opc-weekly-report/</id>
     <link href="https://geekqin.github.io/opcreport/2026/07/01/2026-W26-opc-weekly-report/"/>
@@ -106,8 +103,8 @@
     <category term="Solo Founders" scheme="https://geekqin.github.io/opcreport/categories/OPC-Trends/AI-Entrepreneurship/Solo-Founders/"/>
     <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
     <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
-    <category term="One Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
     <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
+    <category term="One Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
     <category term="Entrepreneurship" scheme="https://geekqin.github.io/opcreport/tags/Entrepreneurship/"/>
     <category term="Indie Hacker" scheme="https://geekqin.github.io/opcreport/tags/Indie-Hacker/"/>
     <category term="Micro SaaS" scheme="https://geekqin.github.io/opcreport/tags/Micro-SaaS/"/>
@@ -131,8 +128,8 @@
     <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
     <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
     <category term="Weekly Report" scheme="https://geekqin.github.io/opcreport/tags/Weekly-Report/"/>
-    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
     <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
+    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
     <category term="Entrepreneurship" scheme="https://geekqin.github.io/opcreport/tags/Entrepreneurship/"/>
     <id>https://geekqin.github.io/opcreport/2026/06/27/2026-06-27-opc-weekly-report/</id>
     <link href="https://geekqin.github.io/opcreport/2026/06/27/2026-06-27-opc-weekly-report/"/>
