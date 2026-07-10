@@ -11,7 +11,31 @@
   <rights>All rights reserved 2026, OPC Observer</rights>
   <subtitle>Weekly insights on AI-powered solopreneurship and one-person company trends</subtitle>
   <title>OPC One-Person Company AI Entrepreneurship Report</title>
-  <updated>2026-07-10T13:07:38.320Z</updated>
+  <updated>2026-07-10T15:09:42.274Z</updated>
+  <entry>
+    <author>
+      <name>OPC Observer</name>
+    </author>
+    <category term="OPC" scheme="https://geekqin.github.io/opcreport/categories/OPC/"/>
+    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/categories/OPC/AI-Startup/"/>
+    <category term="Solo Founder" scheme="https://geekqin.github.io/opcreport/categories/OPC/AI-Startup/Solo-Founder/"/>
+    <category term="Trend Report" scheme="https://geekqin.github.io/opcreport/categories/OPC/AI-Startup/Solo-Founder/Trend-Report/"/>
+    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
+    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
+    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
+    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
+    <category term="AI Startup 2026" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup-2026/"/>
+    <category term="Vibe Coding" scheme="https://geekqin.github.io/opcreport/tags/Vibe-Coding/"/>
+    <category term="Claude Code" scheme="https://geekqin.github.io/opcreport/tags/Claude-Code/"/>
+    <category term="Coze" scheme="https://geekqin.github.io/opcreport/tags/Coze/"/>
+    <category term="Solo CEO" scheme="https://geekqin.github.io/opcreport/tags/Solo-CEO/"/>
+    <id>https://geekqin.github.io/opcreport/2026/07/10/2026-Week28-opc-weekly-report/</id>
+    <link href="https://geekqin.github.io/opcreport/2026/07/10/2026-Week28-opc-weekly-report/"/>
+    <published>2026-07-10T15:04:00.000Z</published>
+    <summary>Weekly monitor of the One-Person Company (OPC) AI startup trend. Week 28 (July 2026): OPC is named a top entrepreneurial trend, Claude Code crosses 5M MAU, GPT-5.6 hits 1.5M token context, and AI Agents enter production.</summary>
+    <title>One-Person Company Awakens: AI Solo-Founder Startup Trend Monitor — Week 28 (July 2026)</title>
+    <updated>2026-07-10T15:09:42.274Z</updated>
+  </entry>
   <entry>
     <author>
       <name>OPC Observer</name>
@@ -37,29 +61,6 @@
     </summary>
     <title>OPC One-Person Company AI Startup Trend Report — How AI Agents Are Redefining the 'Company' (Week 26, 2026)</title>
     <updated>2026-07-10T13:07:38.320Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>OPC Observer</name>
-    </author>
-    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/"/>
-    <category term="OPC Trend Report" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Trend-Report/"/>
-    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
-    <category term="Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/Solopreneur/"/>
-    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
-    <category term="One Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
-    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
-    <category term="China Tech Policy" scheme="https://geekqin.github.io/opcreport/tags/China-Tech-Policy/"/>
-    <id>https://geekqin.github.io/opcreport/2026/07/10/2026-Week28-opc-weekly-report/</id>
-    <link href="https://geekqin.github.io/opcreport/2026/07/10/2026-Week28-opc-weekly-report/"/>
-    <published>2026-07-09T16:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p><em>Report generated: 2026-07-10 22:05 (UTC+8) | Issue #28 | Weekly OPC&#x2F;AI Solopreneur Trend Monitor</em></p>
-<hr>
-<h2]]>
-    </summary>
-    <title>Beijing Shijingshan Rolls Out 6M Subsidy Package — Tencent WorkBuddy OPC Community Launches in Chengdu</title>
-    <updated>2026-07-10T14:07:43.544Z</updated>
   </entry>
   <entry>
     <author>
