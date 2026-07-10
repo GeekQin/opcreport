@@ -276,7 +276,14 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/2026-Trends/</loc>
+    <loc>https://geekqin.github.io/opcreport/tags/Artificial-Intelligence/</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/DeepSeek/</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -397,14 +404,14 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Trends/</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/Startup-Trends/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Trends/Startup-Intelligence/</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
