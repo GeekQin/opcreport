@@ -269,27 +269,6 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/AIOPC/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/Solo-Founder/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/Bootstrapping/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://geekqin.github.io/opcreport/tags/OpenClaw/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -318,21 +297,7 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/tags/Vibe-Coding/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/WAIC/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/OPC-Standard/</loc>
+    <loc>https://geekqin.github.io/opcreport/tags/China-AI/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -460,13 +425,6 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/OPC/AI-Startup/Solo-Founder/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://geekqin.github.io/opcreport/categories/OPC/AI-Startup/Solopreneur/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -474,7 +432,7 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/OPC/AI-Startup/Solo-Founder/Agent/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship-Report/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
