@@ -320,6 +320,13 @@
   </url>
   
   <url>
+    <loc>https://geekqin.github.io/opcreport/tags/AI/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://geekqin.github.io/opcreport/tags/HACR/</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -335,34 +342,6 @@
   
   <url>
     <loc>https://geekqin.github.io/opcreport/tags/Accio-Work/</loc>
-    <lastmod>2026-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/GPT-5-6/</loc>
-    <lastmod>2026-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/AI-CEO/</loc>
-    <lastmod>2026-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/Tycoon/</loc>
-    <lastmod>2026-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekqin.github.io/opcreport/tags/Bika-ai/</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -476,6 +455,13 @@
   </url>
   
   <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://geekqin.github.io/opcreport/categories/OPC/</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -512,6 +498,13 @@
   
   <url>
     <loc>https://geekqin.github.io/opcreport/categories/AI-Startup/One-Person-Company/Solo-Founder/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC/Solo-Founder/</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
