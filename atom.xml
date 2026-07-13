@@ -11,24 +11,26 @@
   <rights>All rights reserved 2026, OPC Observer</rights>
   <subtitle>Weekly insights on AI-powered solopreneurship and one-person company trends</subtitle>
   <title>OPC One-Person Company AI Entrepreneurship Report</title>
-  <updated>2026-07-13T12:08:44.573Z</updated>
+  <updated>2026-07-13T16:15:53.217Z</updated>
   <entry>
     <author>
       <name>OPC Observer</name>
     </author>
-    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/"/>
-    <category term="Weekly Report" scheme="https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/Weekly-Report/"/>
+    <category term="OPC Weekly Report" scheme="https://geekqin.github.io/opcreport/categories/OPC-Weekly-Report/"/>
+    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/categories/OPC-Weekly-Report/AI-Entrepreneurship/"/>
     <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
-    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
-    <category term="One Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
-    <category term="AI Solopreneur" scheme="https://geekqin.github.io/opcreport/tags/AI-Solopreneur/"/>
-    <category term="Startup" scheme="https://geekqin.github.io/opcreport/tags/Startup/"/>
-    <id>https://geekqin.github.io/opcreport/2026/07/13/2026-Week29-opc-weekly-report/</id>
-    <link href="https://geekqin.github.io/opcreport/2026/07/13/2026-Week29-opc-weekly-report/"/>
-    <published>2026-07-13T12:04:00.000Z</published>
-    <summary>China's OPC (One-Person Company) movement enters a standardization era: the first national AI-OPC terminology standard, Tencent's WorkBuddy OPC community in Chengdu, and multi-city subsidy wars reshape solo AI entrepreneurship in 2026.</summary>
-    <title>OPC in 2026: How Policy and Platforms Are Standardizing the One-Person Company Boom</title>
-    <updated>2026-07-13T12:08:44.573Z</updated>
+    <category term="one-person company" scheme="https://geekqin.github.io/opcreport/tags/one-person-company/"/>
+    <category term="AI agents" scheme="https://geekqin.github.io/opcreport/tags/AI-agents/"/>
+    <category term="solopreneur" scheme="https://geekqin.github.io/opcreport/tags/solopreneur/"/>
+    <category term="AI startup" scheme="https://geekqin.github.io/opcreport/tags/AI-startup/"/>
+    <category term="vibe coding" scheme="https://geekqin.github.io/opcreport/tags/vibe-coding/"/>
+    <category term="China tech" scheme="https://geekqin.github.io/opcreport/tags/China-tech/"/>
+    <id>https://geekqin.github.io/opcreport/2026/07/14/2026-Week29-opc-weekly-report/</id>
+    <link href="https://geekqin.github.io/opcreport/2026/07/14/2026-Week29-opc-weekly-report/"/>
+    <published>2026-07-13T16:13:00.000Z</published>
+    <summary>Weekly monitoring report on China's One Person Company (OPC) AI startup ecosystem — policy updates, market data, business models, and risk analysis for July 2026 Week 29.</summary>
+    <title>OPC Solopreneur AI Startup Trend Report | Week 29, 2026</title>
+    <updated>2026-07-13T16:15:53.217Z</updated>
   </entry>
   <entry>
     <author>
