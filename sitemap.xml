@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/2026/07/13/2026-Week28-opc-weekly-report/</loc>
+    <loc>https://geekqin.github.io/opcreport/2026/07/13/2026-Week29-opc-weekly-report/</loc>
     
     <lastmod>2026-07-13</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/2026/07/13/2026-Week29-opc-weekly-report/</loc>
+    <loc>https://geekqin.github.io/opcreport/2026/07/13/2026-Week28-opc-weekly-report/</loc>
     
     <lastmod>2026-07-13</lastmod>
     
@@ -284,6 +284,27 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/Solo-Founder/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/AI%E5%88%9B%E4%B8%9A/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/tags/%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -399,7 +420,7 @@
   </url>
   
   <url>
-    <loc>https://geekqin.github.io/opcreport/categories/AI-Entrepreneurship/OPC-Trend-Report/</loc>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Startup-Trends/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -428,6 +449,20 @@
   
   <url>
     <loc>https://geekqin.github.io/opcreport/categories/AI-Business-Trends/Startup-Insights/Technology/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Startup-Trends/OPC-Monitor/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekqin.github.io/opcreport/categories/AI-Startup-Trends/OPC-Monitor/Solo-Founder/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
