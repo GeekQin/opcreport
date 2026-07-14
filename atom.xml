@@ -11,27 +11,7 @@
   <rights>All rights reserved 2026, OPC Observer</rights>
   <subtitle>Weekly insights on AI-powered solopreneurship and one-person company trends</subtitle>
   <title>OPC One-Person Company AI Entrepreneurship Report</title>
-  <updated>2026-07-13T16:15:53.217Z</updated>
-  <entry>
-    <author>
-      <name>OPC Observer</name>
-    </author>
-    <category term="OPC Weekly Report" scheme="https://geekqin.github.io/opcreport/categories/OPC-Weekly-Report/"/>
-    <category term="AI Entrepreneurship" scheme="https://geekqin.github.io/opcreport/categories/OPC-Weekly-Report/AI-Entrepreneurship/"/>
-    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
-    <category term="one-person company" scheme="https://geekqin.github.io/opcreport/tags/one-person-company/"/>
-    <category term="AI agents" scheme="https://geekqin.github.io/opcreport/tags/AI-agents/"/>
-    <category term="solopreneur" scheme="https://geekqin.github.io/opcreport/tags/solopreneur/"/>
-    <category term="AI startup" scheme="https://geekqin.github.io/opcreport/tags/AI-startup/"/>
-    <category term="vibe coding" scheme="https://geekqin.github.io/opcreport/tags/vibe-coding/"/>
-    <category term="China tech" scheme="https://geekqin.github.io/opcreport/tags/China-tech/"/>
-    <id>https://geekqin.github.io/opcreport/2026/07/14/2026-Week29-opc-weekly-report/</id>
-    <link href="https://geekqin.github.io/opcreport/2026/07/14/2026-Week29-opc-weekly-report/"/>
-    <published>2026-07-13T16:13:00.000Z</published>
-    <summary>Weekly monitoring report on China's One Person Company (OPC) AI startup ecosystem — policy updates, market data, business models, and risk analysis for July 2026 Week 29.</summary>
-    <title>OPC Solopreneur AI Startup Trend Report | Week 29, 2026</title>
-    <updated>2026-07-13T16:15:53.217Z</updated>
-  </entry>
+  <updated>2026-07-14T03:06:58.227Z</updated>
   <entry>
     <author>
       <name>OPC Observer</name>
@@ -52,6 +32,30 @@
     </summary>
     <title>The Rise of AI-Powered One-Person Companies: OPC Business Model in 2026</title>
     <updated>2026-07-14T03:06:58.227Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>OPC Observer</name>
+    </author>
+    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/categories/AI-Startup/"/>
+    <category term="OPC Monitoring" scheme="https://geekqin.github.io/opcreport/categories/AI-Startup/OPC-Monitoring/"/>
+    <category term="Solo Founder Trends" scheme="https://geekqin.github.io/opcreport/categories/AI-Startup/OPC-Monitoring/Solo-Founder-Trends/"/>
+    <category term="OPC" scheme="https://geekqin.github.io/opcreport/tags/OPC/"/>
+    <category term="One-Person Company" scheme="https://geekqin.github.io/opcreport/tags/One-Person-Company/"/>
+    <category term="AI Agent" scheme="https://geekqin.github.io/opcreport/tags/AI-Agent/"/>
+    <category term="AI Startup" scheme="https://geekqin.github.io/opcreport/tags/AI-Startup/"/>
+    <category term="Indie Hacker" scheme="https://geekqin.github.io/opcreport/tags/Indie-Hacker/"/>
+    <category term="Solo Founder" scheme="https://geekqin.github.io/opcreport/tags/Solo-Founder/"/>
+    <category term="Digital Employee" scheme="https://geekqin.github.io/opcreport/tags/Digital-Employee/"/>
+    <category term="WAIC" scheme="https://geekqin.github.io/opcreport/tags/WAIC/"/>
+    <category term="China AI" scheme="https://geekqin.github.io/opcreport/tags/China-AI/"/>
+    <category term="WorkBuddy" scheme="https://geekqin.github.io/opcreport/tags/WorkBuddy/"/>
+    <id>https://geekqin.github.io/opcreport/2026/07/14/2026-Week29-opc-weekly-report/</id>
+    <link href="https://geekqin.github.io/opcreport/2026/07/14/2026-Week29-opc-weekly-report/"/>
+    <published>2026-07-13T16:00:00.000Z</published>
+    <summary>Hourly monitoring report on the One-Person Company (OPC) AI startup trend in China — covering city policies, platform ecosystems, benchmark cases, and AI Agent tooling as of July 14, 2026.</summary>
+    <title>One-Person Company (OPC) AI Startup Ecosystem in China: Cities Compete, Platforms Build the Stage — July 2026 Weekly Monitoring Report</title>
+    <updated>2026-07-14T04:08:48.270Z</updated>
   </entry>
   <entry>
     <author>
